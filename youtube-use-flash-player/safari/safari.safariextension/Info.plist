@@ -7,15 +7,15 @@
 	<key>Builder Version</key>
 	<string>11601.7.7</string>
 	<key>CFBundleDisplayName</key>
-	<string>Flash Player for YouTube™</string>
+	<string>Player for YouTube™ (Flash version)</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.add0n.youtube.flash</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.1.0</string>
+	<string>0.1.1</string>
 	<key>CFBundleVersion</key>
-	<string>1</string>
+	<string>2</string>
 	<key>Chrome</key>
 	<dict>
 		<key>Database Quota</key>
@@ -24,9 +24,7 @@
 		<string>background.html</string>
 	</dict>
 	<key>Companion Bundle Identifier</key>
-	<array>
-		<string>1</string>
-	</array>
+	<array/>
 	<key>Content</key>
 	<dict>
 		<key>Scripts</key>
@@ -57,6 +55,8 @@
 			<string>Some</string>
 		</dict>
 	</dict>
+	<key>Update Manifest URL</key>
+	<string>https://raw.githubusercontent.com/james-fray/youtube-tools/master/youtube-use-flash-player/safari/safari.safariextension/update.plist</string>
 	<key>Website</key>
 	<string>http://add0n.com/youtube-tools.html?from=flash</string>
 </dict>
