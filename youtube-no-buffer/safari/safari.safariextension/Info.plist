@@ -7,13 +7,13 @@
 	<key>Builder Version</key>
 	<string>11601.7.8</string>
 	<key>CFBundleDisplayName</key>
-	<string>Player for YouTube™ (Flash version)</string>
+	<string>No buffer (Stop autoplay) for YouTube™</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.add0n.youtube.flash</string>
+	<string>com.add0n.youtube.nobuffer</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>0.1.1</string>
+	<string>0.1.0</string>
 	<key>CFBundleVersion</key>
 	<string>2</string>
 	<key>Chrome</key>
@@ -36,7 +36,7 @@
 		</dict>
 	</dict>
 	<key>Description</key>
-	<string>Force YouTube to prefer Flash player over the default HTML5 one</string>
+	<string>Stops YouTube player from auto-buffering (auto-playing) video streams.</string>
 	<key>DeveloperIdentifier</key>
 	<string>RED8XKG2R4</string>
 	<key>ExtensionInfoDictionaryVersion</key>
@@ -56,8 +56,8 @@
 		</dict>
 	</dict>
 	<key>Update Manifest URL</key>
-	<string>https://raw.githubusercontent.com/james-fray/youtube-tools/master/youtube-use-flash-player/safari/safari.safariextension/update.plist</string>
+	<string>https://raw.githubusercontent.com/james-fray/youtube-tools/master/youtube-no-buffer/safari/safari.safariextension/update.plist</string>
 	<key>Website</key>
-	<string>http://add0n.com/youtube-tools.html?from=flash</string>
+	<string>http://add0n.com/youtube-tools.html?from=buffer</string>
 </dict>
 </plist>
